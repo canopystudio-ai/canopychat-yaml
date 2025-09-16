@@ -9,7 +9,7 @@ version: 1.2.1
 cache: true
 
 # File strategy s3/firebase
-fileStrategy: "s3"
+# fileStrategy: "s3"
 
 # ===================== Interface =====================
 # Custom interface configuration
